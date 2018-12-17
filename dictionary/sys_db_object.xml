@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="ref_ac_columns_search=true,update_synch=true,no_labels=true,ref_ac_columns=name,ref_auto_completer=AJAXTableCompleter,file_root=true" extends="sys_metadata" label="Table" max_length="40" name="sys_db_object" text_index="true" type="collection">
+        <element label="Client ID" max_length="32" name="x_287795_conferenc_client_id" reference="cmdb_ci_appl_sap_bo" type="reference"/>
+        <element attributes="omit_sys_original=true" label="Cost" max_length="20" name="x_287795_conferenc_cost" type="currency"/>
+        <element label="Deadline A" max_length="40" name="x_287795_conferenc_deadline_a" type="glide_date_time"/>
+        <element label="Deadline B" max_length="40" name="x_287795_conferenc_deadline_b" type="glide_date_time"/>
+        <element label="Deadline C" max_length="40" name="x_287795_conferenc_deadline_c" type="glide_date_time"/>
+        <element label="Event date" max_length="40" name="x_287795_conferenc_event_date" type="glide_date"/>
+        <element label="Organization" max_length="32" name="x_287795_conferenc_organization" reference="ecc_event" type="reference"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="PTA attendees" max_length="16777215" name="x_287795_conferenc_pta_attendees" reference="ecc_event" type="glide_list"/>
+        <element label="Registration date Early" max_length="19" name="x_287795_conferenc_registration_date_early" type="glide_date_time"/>
+        <element label="registrtaion date Final" max_length="19" name="x_287795_conferenc_registrtaion_date_final" type="glide_date_time"/>
+        <element label="Registrtaion date Late" max_length="19" name="x_287795_conferenc_registrtaion_date_late" type="glide_date_time"/>
+        <element label="registrtaion date Normal" max_length="19" name="x_287795_conferenc_registrtaion_date_normal" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Registrtaion Status" max_length="40" name="x_287795_conferenc_registrtaion_status" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Sponsorship level" max_length="40" name="x_287795_conferenc_sponsorship_level" type="string">
+            <choice/>
+        </element>
+        <element label="Time Worked" max_length="40" name="x_287795_conferenc_time_worked" type="glide_time"/>
+        <index name="index">
+            <element name="x_287795_conferenc_client_id"/>
+        </index>
+    </element>
+</database>

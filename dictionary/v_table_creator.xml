@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="no_attachment=true" label="Create Table" max_length="40" name="v_table_creator" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="x_287795_conferenc_u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Organization ID" max_length="40" name="x_287795_conferenc_u_org_id" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_287795_conferenc_organization" label="Organization" language="en" table="sys_db_object">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_287795_conferenc_organization</element>
+            <help/>
+            <hint/>
+            <label>Organization</label>
+            <language>en</language>
+            <name>sys_db_object</name>
+            <plural>Organizations</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-17 19:38:40</sys_created_on>
+            <sys_id>7873febfdb12230081539c66db96195b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Organization</sys_name>
+            <sys_package display_value="Conference" source="x_287795_conferenc">a671ec46db92230081539c66db961973</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Conference">a671ec46db92230081539c66db961973</sys_scope>
+            <sys_update_name>sys_documentation_sys_db_object_x_287795_conferenc_organization_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-17 19:38:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

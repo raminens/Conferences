@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_287795_conferenc_u_reg_date_f" label="Registration date - Final" language="en" table="option">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_287795_conferenc_u_reg_date_f</element>
+            <help/>
+            <hint/>
+            <label>Registration date - Final</label>
+            <language>en</language>
+            <name>option</name>
+            <plural>Registration date - Finals</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-17 19:01:27</sys_created_on>
+            <sys_id>efea663bdb12230081539c66db9619ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Registration date - Final</sys_name>
+            <sys_package display_value="Conference" source="x_287795_conferenc">a671ec46db92230081539c66db961973</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Conference">a671ec46db92230081539c66db961973</sys_scope>
+            <sys_update_name>sys_documentation_option_x_287795_conferenc_u_reg_date_f_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-17 19:01:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

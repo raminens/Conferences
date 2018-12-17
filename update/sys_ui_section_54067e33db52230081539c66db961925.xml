@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="54067e33db52230081539c66db961925" sys_domain="global" table="sys_db_object" version="3" view="table_view">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-17 19:49:50</sys_created_on>
+            <sys_id>dc067e33db52230081539c66db961925</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-17 19:49:50</sys_updated_on>
+            <text>Table Form Top</text>
+            <type display_value="Section Details">19756e5ec3313000bac1addbdfba8f18</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dc067e33db52230081539c66db961925</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-17 19:49:50</sys_created_on>
+            <sys_id>d0067e33db52230081539c66db961926</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_db_object" sys_domain="global" view="c4067e33db52230081539c66db96191f">54067e33db52230081539c66db961925</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-17 19:49:50</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-17 19:49:50</sys_created_on>
+            <sys_id>54067e33db52230081539c66db961926</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_db_object" sys_domain="global" view="c4067e33db52230081539c66db96191f">54067e33db52230081539c66db961925</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-17 19:49:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_287795_conferenc_event_date</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-17 19:49:50</sys_created_on>
+            <sys_id>d4067e33db52230081539c66db961926</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_db_object" sys_domain="global" view="c4067e33db52230081539c66db96191f">54067e33db52230081539c66db961925</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-17 19:49:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_287795_conferenc_organization</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-17 19:49:50</sys_created_on>
+            <sys_id>58067e33db52230081539c66db961926</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_db_object" sys_domain="global" view="c4067e33db52230081539c66db96191f">54067e33db52230081539c66db961925</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-17 19:49:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_287795_conferenc_cost</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-17 19:49:50</sys_created_on>
+            <sys_id>d8067e33db52230081539c66db961926</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_db_object" sys_domain="global" view="c4067e33db52230081539c66db96191f">54067e33db52230081539c66db961925</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-17 19:49:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_287795_conferenc_sponsorship_level</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-17 19:49:50</sys_created_on>
+            <sys_id>5c067e33db52230081539c66db961926</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_db_object" sys_domain="global" view="c4067e33db52230081539c66db96191f">54067e33db52230081539c66db961925</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-17 19:49:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_287795_conferenc_registrtaion_status</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-17 19:49:50</sys_created_on>
+            <sys_id>dc067e33db52230081539c66db961926</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_db_object" sys_domain="global" view="c4067e33db52230081539c66db96191f">54067e33db52230081539c66db961925</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-17 19:49:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_scope</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-17 19:49:50</sys_created_on>
+            <sys_id>50067e33db52230081539c66db961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_db_object" sys_domain="global" view="c4067e33db52230081539c66db96191f">54067e33db52230081539c66db961925</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-17 19:49:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_287795_conferenc_pta_attendees</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-17 19:49:50</sys_created_on>
+            <sys_id>d0067e33db52230081539c66db961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_db_object" sys_domain="global" view="c4067e33db52230081539c66db96191f">54067e33db52230081539c66db961925</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-17 19:49:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_287795_conferenc_deadline_a</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-17 19:49:50</sys_created_on>
+            <sys_id>54067e33db52230081539c66db961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_db_object" sys_domain="global" view="c4067e33db52230081539c66db96191f">54067e33db52230081539c66db961925</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-17 19:49:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_287795_conferenc_deadline_b</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-17 19:49:50</sys_created_on>
+            <sys_id>d4067e33db52230081539c66db961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_db_object" sys_domain="global" view="c4067e33db52230081539c66db96191f">54067e33db52230081539c66db961925</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-17 19:49:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_287795_conferenc_deadline_c</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-17 19:49:50</sys_created_on>
+            <sys_id>58067e33db52230081539c66db961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_db_object" sys_domain="global" view="c4067e33db52230081539c66db96191f">54067e33db52230081539c66db961925</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-17 19:49:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_287795_conferenc_registration_date_early</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-17 19:49:50</sys_created_on>
+            <sys_id>d8067e33db52230081539c66db961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_db_object" sys_domain="global" view="c4067e33db52230081539c66db96191f">54067e33db52230081539c66db961925</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-17 19:49:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_287795_conferenc_registrtaion_date_normal</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-17 19:49:50</sys_created_on>
+            <sys_id>5406b273db52230081539c66db9619fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_db_object" sys_domain="global" view="c4067e33db52230081539c66db96191f">54067e33db52230081539c66db961925</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-17 19:49:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_287795_conferenc_registrtaion_date_late</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-17 19:49:50</sys_created_on>
+            <sys_id>d406b273db52230081539c66db9619fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_db_object" sys_domain="global" view="c4067e33db52230081539c66db96191f">54067e33db52230081539c66db961925</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-17 19:49:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_287795_conferenc_registrtaion_date_final</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-17 19:49:50</sys_created_on>
+            <sys_id>5806b273db52230081539c66db9619fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_db_object" sys_domain="global" view="c4067e33db52230081539c66db96191f">54067e33db52230081539c66db961925</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-17 19:49:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_287795_conferenc_time_worked</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-17 19:49:50</sys_created_on>
+            <sys_id>d806b273db52230081539c66db9619fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_db_object" sys_domain="global" view="c4067e33db52230081539c66db96191f">54067e33db52230081539c66db961925</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-17 19:49:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_287795_conferenc_client_id</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-17 19:49:50</sys_created_on>
+            <sys_id>5c06b273db52230081539c66db9619fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_db_object" sys_domain="global" view="c4067e33db52230081539c66db96191f">54067e33db52230081539c66db961925</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-17 19:49:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sys_db_object</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-17 19:49:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>54067e33db52230081539c66db961925</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_db_object</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Conference" source="x_287795_conferenc">a671ec46db92230081539c66db961973</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Conference">a671ec46db92230081539c66db961973</sys_scope>
+            <sys_update_name>sys_ui_section_54067e33db52230081539c66db961925</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-17 19:49:50</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="table view" name="table_view">c4067e33db52230081539c66db96191f</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

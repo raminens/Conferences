@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="label" max_length="40" name="option" type="collection">
+        <element label="Event Date" max_length="40" name="x_287795_conferenc_event_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="2" label="Name" max_length="40" name="x_287795_conferenc_name" type="string">
+            <choice/>
+        </element>
+        <element label="Organization" max_length="32" name="x_287795_conferenc_organization" reference="ecc_event" type="reference"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Client attendees" max_length="1024" name="x_287795_conferenc_u_client_attendees" type="glide_list"/>
+        <element label="Client ID" max_length="32" name="x_287795_conferenc_u_client_id" reference="cmdb_ci_appl_sap_bo" type="reference"/>
+        <element attributes="omit_sys_original=true" label="Cost" max_length="20" name="x_287795_conferenc_u_cost" type="currency"/>
+        <element label="Deadline A" max_length="40" name="x_287795_conferenc_u_deadlinea" type="glide_date_time"/>
+        <element label="Deadline B" max_length="40" name="x_287795_conferenc_u_deadlineb" type="glide_date_time"/>
+        <element label="Deadline C" max_length="40" name="x_287795_conferenc_u_deadlinec" type="glide_date_time"/>
+        <element label="Event Date" max_length="40" name="x_287795_conferenc_u_event_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="x_287795_conferenc_u_name" type="string"/>
+        <element label="Organization" max_length="32" name="x_287795_conferenc_u_organization" reference="ecc_event" type="reference"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="PTA attendees" max_length="1024" name="x_287795_conferenc_u_pta_attendees" type="glide_list"/>
+        <element label="Registration date - Early" max_length="40" name="x_287795_conferenc_u_reg_date_e" type="glide_date_time"/>
+        <element label="Registration date - Final" max_length="40" name="x_287795_conferenc_u_reg_date_f" type="glide_date_time"/>
+        <element label="Registration date - Late" max_length="40" name="x_287795_conferenc_u_reg_date_n" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Registration Status" max_length="40" name="x_287795_conferenc_u_reg_status" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Sponsorship level" max_length="40" name="x_287795_conferenc_u_sponsorship_v" type="string">
+            <choice/>
+        </element>
+        <element label="Time Worked" max_length="40" name="x_287795_conferenc_u_time_worked" type="glide_time"/>
+    </element>
+</database>
